@@ -1,2 +1,2 @@
-# AGauge
+# A Gauge
  
